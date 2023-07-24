@@ -8,3 +8,5 @@ features included-
 -and contact details 
 
 For contact page added an php file to get connected with university though for now i used dummy info.
+
+js code is addded along with html for transition.
